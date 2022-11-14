@@ -1,5 +1,5 @@
 # SauceDemo
-1.	Download and Extract this folder “SauceDemoProject” from GitHub to Eclipse workspace with Java.
+1.	Download and Extract this zip folder “SauceDemoProject” from GitHub to Eclipse workspace with Java.
 2.	Add required Maven Dependencies as below -  
 3.	Update the chrome driver to Chrome Driver 107.0.5304.62 as I have used the driver link for same - 
 4.	Go to testing.xml file, chrome driver as a browser is mentioned in Selenium - 
